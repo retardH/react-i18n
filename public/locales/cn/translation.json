@@ -1,0 +1,12 @@
+{
+  "main": {
+    "header": "歡迎來到應用程序！",
+    "new_messages_one": "您有一封新郵件。",
+    "new_messages_other": "你有 {{count}} 新消息",
+    "current_date": "今天是 {{date, DATE_LONG}}",
+    "incoming_message": "你有一條來自 {{from}}",
+    "message_contents": "他們說： {{body}}",
+    "message_contents_male": "他說： {{body}}",
+    "message_contents_female": "她說： {{body}}"
+  }
+}
